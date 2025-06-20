@@ -39,7 +39,6 @@ The solution to this LP is a complete, optimal strategy dictating the exact gues
 ## How to Run
 
 1.  **Clone the repository:**
-    *(Remember to use your new repository name here)*
     ```bash
     git clone [https://github.com/ziliangstanley/Pick-A-Number.git](https://github.com/ziliangstanley/Pick-A-Number.git)
     cd Pick-A-Number
@@ -48,8 +47,6 @@ The solution to this LP is a complete, optimal strategy dictating the exact gues
     ```bash
     pip install numpy cvxpy gurobipy
     ```
-    *(Note: Gurobi is a commercial solver but provides a free, restricted license for academic and non-production use, which is automatically installed with the pip package).*
-
 3.  **Run the script:**
     ```bash
     python pick-a-number.py
