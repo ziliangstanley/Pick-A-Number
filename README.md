@@ -51,7 +51,6 @@ The solution to this LP is a complete, optimal strategy dictating the exact gues
     ```bash
     python pick-a-number.py
     ```
-    *(You may also want to rename your `.py` file to `pick-a-number.py` for consistency).*
 
 ## Key Takeaways & Challenges
 
